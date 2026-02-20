@@ -21,7 +21,7 @@ The original dataset from Kaggle was already mostly clean. The following steps w
    - Extracted `Month` from the `Date` column to analyze monthly and seasonal trends.
 
 
-## Business Questions Answered
+## Business Questions
 The SQL analysis in this project aims to answer the following business questions:
 1. Which product categories generate the most revenue?
 2. Which product categories sell best to different genders or age groups?
