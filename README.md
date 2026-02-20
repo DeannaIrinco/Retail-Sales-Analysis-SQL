@@ -28,6 +28,8 @@ The SQL analysis in this project aims to answer the following business questions
 3. How does revenue vary by month?
 4. Are there seasonal trends in sales?
 
+#Insights
+
    
 
 
