@@ -27,8 +27,6 @@ The SQL analysis in this project aims to answer the following business questions
 2. Which product categories sell best to different genders or age groups?
 3. How does revenue vary by month?
 4. Are there seasonal trends in sales?
-5. 
-<img width="1016" height="193" alt="Screenshot 2026-02-19 at 7 17 35 PM" src="https://github.com/user-attachments/assets/034a581e-ed66-4972-be01-fb8de862f7bc" />
 
    
 
