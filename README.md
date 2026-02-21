@@ -34,6 +34,9 @@ With the given datasets, the SQL analysis in this project aims to answer the fol
 ## Insights with the Query
 
 Query 1
+<img width="848" height="144" alt="Screenshot 2026-02-21 at 11 22 23 AM" src="https://github.com/user-attachments/assets/82825e33-7f82-43e7-af78-53864ed4e861" />
+Result:
+<img width="292" height="200" alt="Screenshot 2026-02-21 at 11 23 28 AM" src="https://github.com/user-attachments/assets/759dfb13-e59f-4b4d-b8d1-bef800193285" />
 
 Interpretation:
 - **Electronics** lead the market with the highest total revenue.
