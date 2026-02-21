@@ -22,7 +22,7 @@ The original dataset from Kaggle was already mostly clean. The following steps w
 
 
 ## Business Questions
-The SQL analysis in this project aims to answer the following business questions:
+With the given datasets, the SQL analysis in this project aims to answer the following business questions:
 1. Which product categories generate the most revenue?
 2. Which product categories sell best to different genders or age groups?
 3. How does revenue vary by month?
