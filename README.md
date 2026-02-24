@@ -2,9 +2,9 @@
 ## Project Summary
 This project analyzes retail sales performance using SQL to uncover trends in product revenue, customer demographics, and seasonal fluctuations. The analysis explores key business questions such as which products generate the most revenue, how purchasing behavior varies by gender and age group, and when sales peak throughout the year. Using aggregated queries and data validation in Excel, this project demonstrates how SQL-based analysis can provide actionable insights for marketing strategy, inventory planning, and revenue forecasting.
 
-The dataset used in this project was obtained from Kaggle:
-https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+The dataset used in this project was obtained from Kaggle: [Retail Sales Dataset by Mohammad Talib](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
+This dataset contains transaction-level sales data across three product categories: Beauty, Clothing, and Electronics
 
 ## Data Preparation
 
@@ -12,7 +12,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 
 1. **Validation Checks**
    - Checked for duplicate transactions.
-   - Verified that `Total_Amount` matches `Quantity × Price_per_Unit`.
+   - Verified that `Total_Amount` matches the `Quantity × Price_per_Unit`.
    - Confirmed that the `Date` column is in a consistent date format.
    - Checked for spelling errors in all categorical columns (`Gender`, `Product_Category`).
 
@@ -41,10 +41,10 @@ With the given datasets, the SQL analysis in this project aims to answer the fol
 <img width="292" height="200" alt="Screenshot 2026-02-21 at 11 23 28 AM" src="https://github.com/user-attachments/assets/759dfb13-e59f-4b4d-b8d1-bef800193285" />
 
 **Interpretation:**
-- **Electronics** lead the market with the highest total revenue.
-- **Clothing** is close behind, making it another core driver of income.
-- **Beauty** contributes slightly less, but still remains a valuable part revenue.
-- No single category dominates. This suggests a balanced sales portfolio.
+- **Electronics** lead the market with the highest total revenue
+- **Clothing** is close behind. This is another core driver of income
+- **Beauty** contributes slightly less but still remains a valuable part revenue
+- No single category dominates. This suggests that there is a balanced and healthy sales mix
 
 
 ## **Query 2**
@@ -57,7 +57,7 @@ With the given datasets, the SQL analysis in this project aims to answer the fol
 
 
 **Interpretation:**
-- **Total revenue by gender**: Female = 232,840, Male = 223,160 → spending is almost equal (F: 51%, M: 49%)
+- **Total revenue by gender**: Female=232,840, Male=223,160 → spending is almost equal (F: 51%, M: 49%)
 - **Females**: Spend most on Clothing, followed by Electronics
 - **Males**: Spend most on Electronics, followed by Clothing
 - Both genders spend similar amounts across all three categories, showing that neither gender focuses on only one type of product
