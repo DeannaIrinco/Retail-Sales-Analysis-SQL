@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL
+# Retail Sales Analysis
 Analysis of retail sales trends using SQL queries to explore revenue by category, gender, and age group.
 
 The dataset used in this project was obtained from Kaggle:
