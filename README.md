@@ -6,6 +6,12 @@ The dataset used in this project was obtained from Kaggle: [Retail Sales Dataset
 
 This dataset contains transaction-level sales data across three product categories: Beauty, Clothing, and Electronics
 
+## Tableau Dashboard
+
+The results of this SQL analysis are also visualized in an interactive Tableau Public dashboard:
+
+
+
 ## Data Preparation
 
 The original dataset from Kaggle was already clean. The following steps were performed in Microsoft Excel to validate and enrich the data for analysis:
