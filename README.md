@@ -75,9 +75,9 @@ With the given datasets, the SQL analysis in this project aims to answer the fol
 
 
 **Interpretation:**
-- **Under 25**: Beauty dominates → younger shoppers likely focus on self-care
+- **Under 25**: Beauty dominates → younger shoppers more likely focus to on self-care
 - **26–34**: Clothing dominates → fits lifestyle of working adults who update wardrobes more often
-- **35–44 & 55+**: Electronics lead → higher spending capacity and interest in practical, durable goods
+- **35–44 & 55+**: Electronics lead → higher spending capacity and interest in practical and durable goods
 - Distinct preferences across age groups suggest that targeted promotions would work better than generalized ones
 
 
