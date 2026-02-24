@@ -1,10 +1,10 @@
 # Retail Sales Analysis
-Analysis of retail sales trends using SQL queries to explore revenue by category, gender, and age group.
+## Project Summary
+This project analyzes retail sales performance using SQL to uncover trends in product revenue, customer demographics, and seasonal fluctuations. The analysis explores key business questions such as which products generate the most revenue, how purchasing behavior varies by gender and age group, and when sales peak throughout the year. Using aggregated queries and data validation in Excel, this project demonstrates how SQL-based analysis can provide actionable insights for marketing strategy, inventory planning, and revenue forecasting.
 
 The dataset used in this project was obtained from Kaggle:
 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
-This data set contains transaciton-level sales data that revolves around three product category: Beauty, Clothes, Electronics
 
 ## Data Preparation
 
