@@ -8,7 +8,7 @@ This dataset contains transaction-level sales data across three product categori
 
 ## Tableau Dashboard
 
-The results of this SQL analysis are also visualized in an interactive Tableau Public dashboard: [Retail Sales Analysis Dashboard](https://public.tableau.com/app/profile/deanna.irinco/viz/RetailSalesAnalysis_17719769759040/Dashboard1)
+The results of this SQL analysis are also visualized in an interactive Tableau Public dashboard: [Retail Sales Analysis Dashboard](https://public.tableau.com/app/profile/deanna.irinco/viz/RetailSalesPerformanceDashboard_17719788524440/RetailSalesPerformanceDashboard)
 
 
 
