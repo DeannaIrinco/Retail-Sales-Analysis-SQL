@@ -128,7 +128,9 @@ Based on the data, the business demonstrates strong and consistent performance a
 
 Revenue is evenly distributed among Electronics, Clothing, and Beauty. This indicates that there is a balanced product portfolio that does not rely too heavily on a single line. 
 
-Both male and female customers engage actively with all categories. The age group analysis shows clear preferences that can be used for targeted marketing.
+Customer segmentation reveals actionable opportunities:
+- Gender: Females contribute slightly more revenue (51%) and favor Clothing, while males lean toward Electronics.
+- Age: Younger customers (Under 25) prefer Beauty, mid-age groups (26–44) favor Clothing and Electronics, and older customers (55+) focus on Electronics.
 
 Seasonal trends reveal revenue peaks in Q2 (April–June) and Q4 (October–December), aligning with mid-year promotions and holiday shopping periods. Conversely, Q3 (July–September) shows lower spending activity. This suggests that there is a need for strategic interventions to sustain sales during slower months.
 
@@ -136,9 +138,9 @@ Seasonal trends reveal revenue peaks in Q2 (April–June) and Q4 (October–Dece
 
 * Optimize inventory and marketing campaigns before Q2 and Q4 to ensure that there is stock availability for high-demand products (especially Electronics and Clothing)
 
-* Implement demographic-specific campaigns to promote Beauty products to younger customers via social platforms, Electronics to older demographics to emphasize quality and value, and Clothing through both fashion-oriented and practical messaging.
+* Implement demographic-specific campaigns: promote Beauty products to younger customers via social platforms and/or lifestyle messaging, Electronics to older demographics to emphasize quality and value, and Clothing through both fashion-oriented and practical messaging.
 
-* Introduce promotional offers in Q3 to maintain engagement during off-peak periods.
+* Introduce promotional offers in Q3 to maintain engagement during off-peak periods, such as discounts or loyalty rewards.
 
 * By using these insights to guide marketing strategies, the company can maintain steady revenue, retain more customers, and increase profitability across all product segments.
 
